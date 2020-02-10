@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">May Force</string>
+    <string name="label_height">Height</string>
+
+    <string name="label_mass">Mass</string>
+    <string name="label_hair_color">Hair Color</string>
+    <string name="label_skin_color">Skin Color</string>
+    <string name="label_eye_color">Eye Color</string>
+    <string name="label_birth_year">Birth Year</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_homeworld">Homeword</string>
+    <string name="label_films">Films</string>
+    <string name="label_species">Species</string>
+    <string name="label_vehicles">Vehicles</string>
+    <string name="label_starships">Starships</string>
+    <string name="label_date_created">Created</string>
+    <string name="label_date_edited">Edited</string>
+    <string name="label_loading">Loading</string>
+    <string name="label_link_one">Link 1</string>
+    <string name="label_message_sucess">Favorite saved successfully.</string>
+    <string name="label_message_erro_generic">Service temporarily out of air, try again later.</string>
+    <string name="label_message_erro_internet">Please check your internet and try again.</string>
+</resources>
