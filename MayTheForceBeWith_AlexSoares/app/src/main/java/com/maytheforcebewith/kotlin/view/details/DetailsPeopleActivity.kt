@@ -47,7 +47,7 @@ class DetailsPeopleActivity : AppCompatActivity(), IDetailsView {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            R.id.home -> onBackPressed()
+            android.R.id.home -> onBackPressed()
             R.id.action_favorite -> saveFavoritePeople()
         }
         return super.onOptionsItemSelected(item)
