@@ -90,7 +90,7 @@ class MainActivity : AppCompatActivity(), IMainView {
     }
 
     private fun hideLoading() {
-        if (progressDialog != null) {
+        if (progressDialog!!.isShowing) {
             progressDialog!!.cancel()
         }
     }
